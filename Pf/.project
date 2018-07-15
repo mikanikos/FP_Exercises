@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Pf</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>Ocaml.ocamlbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>ocaml.ocamlnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>External files/list.mli</name>
+			<type>1</type>
+			<location>C:/OCaml64/home/Andrea/.opam/4.05.0+mingw64c/lib/ocaml/list.mli</location>
+		</link>
+		<link>
+			<name>External files/string.mli</name>
+			<type>1</type>
+			<location>C:/OCaml64/home/Andrea/.opam/4.05.0+mingw64c/lib/ocaml/string.mli</location>
+		</link>
+	</linkedResources>
+</projectDescription>

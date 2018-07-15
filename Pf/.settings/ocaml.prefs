@@ -1,0 +1,7 @@
+compil_mode//Esercizi3/esercizi3.exe=byte-code
+compil_mode//EserciziDispense/Esercizi3/esercizi3.exe=byte-code
+compil_mode/<project>=byte-code
+compil_mode/function.exe=byte-code
+eclipse.preferences.version=1
+flags/<project>=-g\u00A0
+make_exe//Esercizi3/esercizi3.ml=esercizi3.exe
